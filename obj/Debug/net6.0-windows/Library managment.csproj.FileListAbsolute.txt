@@ -1,0 +1,33 @@
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\Library managment.exe
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\Library managment.deps.json
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\Library managment.runtimeconfig.json
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\Library managment.dll
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\Library managment.pdb
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.csproj.AssemblyReference.cache
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.Form1.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.Properties.Resources.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.csproj.GenerateResource.cache
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.AssemblyInfoInputs.cache
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.AssemblyInfo.cs
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.csproj.CoreCompileInputs.cache
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.dll
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\refint\Library managment.dll
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.pdb
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.genruntimeconfig.cache
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\ref\Library managment.dll
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.Dashboard.resources
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\palko\OneDrive\Documents\Library managment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library managment.csproj.CopyComplete
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.Add_new_book.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.search_Book.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.AddStudent.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.ViewStudentinformation.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.BorrowBook.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.ReturnBook.resources
+C:\Users\palko\OneDrive\Documents\Library managment\obj\Debug\net6.0-windows\Library_managment.CompleteBookDetails.resources
